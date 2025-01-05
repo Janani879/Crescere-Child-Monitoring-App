@@ -37,7 +37,20 @@ o	Configure Firebase Realtime Database and Firebase Storage.
 o	Install the app on an Android device and input child details.
 3.	Web Dashboard:
 o	Open the dashboard to access visualized health metrics.
+   1) 	Input Form User <br>
+![landing page](child.png)  ![landing page](child1.png) 
+
+2).	Height Detection in Action-Once the send image button is clicked image is sent to the backend server and height is fetched<br>
+![landing page](child3.png)<br>
+3)	Firebase Data Flow:All the user data is together stored in firebase.<br>
+![landing page](child4.png)<br>
+4.	Dashboard Graphs:-Average of z scores are plotted for analysis<br>
+![landing page](child5.png)   ![landing page](child6.png) <br>
+5)	Overview Diagram:
+o	A high-level schematic diagram of the system architecture:<br>
+	App → Firebase → Web Dashboard → Graphs.
+ 6) 	Child Growth Insights Example:<br>
+o	A sample z-score graph indicating stunting or wasting trends.
 
 
- <img src="child1.png" alt="Image 1"/> &nbsp;&nbsp;&nbsp; <img src="child.png" alt="Image 2"/>
-![landing page](child3.png) ![landing page](child4.png) ![landing page](child5.png) ![landing page](child6.png)
+
