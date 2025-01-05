@@ -38,4 +38,5 @@ o	Install the app on an Android device and input child details.
 3.	Web Dashboard:
 o	Open the dashboard to access visualized health metrics.
 
-![landing page](child.png) ![landing page](child1.png) ![landing page](child2.png) ![landing page](child3.png) ![landing page](child4.png) ![landing page](child5.png) ![landing page](child6.png)
+![landing page](child.png) ![landing page](child1.png)
+<img src="path/to/image1.png" alt="Image 1" width="200"/> &nbsp;&nbsp;&nbsp; <img src="path/to/image2.png" alt="Image 2" width="200"/>![landing page](child2.png) ![landing page](child3.png) ![landing page](child4.png) ![landing page](child5.png) ![landing page](child6.png)
