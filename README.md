@@ -37,3 +37,6 @@ o	Configure Firebase Realtime Database and Firebase Storage.
 o	Install the app on an Android device and input child details.
 3.	Web Dashboard:
 o	Open the dashboard to access visualized health metrics.
+
+![landing page](child.png) ![landing page](child1.png) ![landing page](child2.png) ![landing page](child3.png) ![landing page](child4.png) ![landing page](child5.png)
+!
