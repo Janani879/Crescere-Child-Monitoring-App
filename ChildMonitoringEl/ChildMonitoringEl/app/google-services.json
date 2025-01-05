@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "108194985799",
+    "firebase_url": "https://childmonitoring-951c3-default-rtdb.firebaseio.com",
+    "project_id": "childmonitoring-951c3",
+    "storage_bucket": "childmonitoring-951c3.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:108194985799:android:2658dee4d34e9895673e62",
+        "android_client_info": {
+          "package_name": "com.example.childmonitoringel"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD9cl56xY8-_Q3IBoQ8Qc6yQM8CYzw4A74"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
